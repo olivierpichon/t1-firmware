@@ -1,6 +1,6 @@
 [submodule "deps/runtime"]
 	path = deps/runtime
-	url = https://github.com/tessel/runtime
+	url = https://github.com/olivierpichon/t1-runtime.git
 [submodule "deps/usb"]
 	path = deps/usb
 	url = https://github.com/nonolith/USB-XMEGA.git
